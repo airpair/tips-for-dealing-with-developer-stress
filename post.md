@@ -68,7 +68,7 @@ You can read all the documentation and blog posts out there, but sometimes simpl
 A second major source of stress is disagreement. Most developers don’t work alone.  There are weeks where we spend more time with our coworkers than with our families.  This constant interaction may result (intentionally or not) in reduced professionalism. This and other factors result in disagreements. Some tips for overcoming this stress include:
 
 #### Pick Your Battles
-It's easy to find yourself arguing semantics.  Does it really matter if the function is called 'getUserId' or 'getUserID'? Probably not. But too often, people become wrapped up in these tiny details.  The discussion becomes counter-productive and time gets more wasted than college kids on St. Patrick’s Day. Even if your idea or choice is more correct, it won't always win. Make peace with it. Sometimes you have to cut your loses in order to keep going.
+It's easy to find yourself arguing semantics.  Does it really matter if the function is called 'getUserId' or 'getUserID'? Probably not. But too often, people become wrapped up in these tiny details.  The discussion becomes counter-productive and time gets more wasted than college kids on St. Patrick’s Day. Even if your idea or choice is more correct, it won't always win. Make peace with it. Sometimes you have to cut your losses in order to keep going.
 
 #### Put it to a Vote
 Seriously, show some love for democracy. We've all been in meetings that go in circles while we search for the optimal solution.  Set a time limit and once you've hit it, put the solutions to vote, majority rules. Have a tie? See the next tip.
