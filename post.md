@@ -74,7 +74,7 @@ It's easy to find yourself arguing semantics.  Does it really matter if the func
 Seriously, show some love for democracy. We've all been in meetings that go in circles while we search for the optimal solution.  Set a time limit and once you've hit it, put the solutions to vote, majority rules. Have a tie? See the next tip.
 
 #### Get a Mediator
-Find a neutral party.  It doesn't necessarily have to be an expert or even a developer.  Find someone you can explain the options to in five meetings and get their feedback.  Their new perspective might even make the solution obvious.
+Find a neutral party.  It doesn't necessarily have to be an expert or even a developer.  Find someone you can explain the options to in five minutes and get their feedback.  Their new perspective might even make the solution obvious. Sometimes simply stating the problem out loud is enough to help you come to a decision or solution.
 
 ### Overloaded
 Working nights and weekends? This third stress is a bummer. Check out these savvy solutions to save your personal life from the black hole of time that work can sometimes be.
