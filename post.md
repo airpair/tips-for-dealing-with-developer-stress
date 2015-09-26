@@ -1,5 +1,5 @@
 Synopsis
-> This article identifies several types of stress facing developers daily and explains how they may impact effectiveness. We’ll cover tips for identifying the root cause of the stress and offer suggestions on how to manage them.
+> This article identifies several types of stress that developers face on a daily basis and explains how they may impact effectiveness. We’ll cover tips for identifying the root cause of the stress and offer suggestions on how to manage them.
 
 ## Background
 I'm co-authoring this article with Erik Gillespie.<sup>http://technicalrex.com/</sup><sup>https://www.airpair.com/stackoverflow/posts/30-days-of-answers-on-stack-overflow</sup> We have worked on many projects together including fun side projects, business idea pitches, and epic enterprise apps. We've encountered a lot of stressful scenarios, ranging from enterprise architectural decisions to where to get lunch (while the latter is mostly intended as a joke, there is a thing called “decision fatigue” that contributes to not being able to choose something as routine as lunch – stay tuned to learn more!). We've tried a lot of techniques and selected a handful we feel to be most helpful.
