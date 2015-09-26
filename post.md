@@ -87,7 +87,9 @@ Minimize context switching: try and wrap up a task before jumping to others. Thi
 Keep a tight eye on your week: if you’re working extra hours for many consecutive days, you risk burnout, which results in inferior work. Be sure to take time to rest and regenerate; knowing deadlines can help you decide what MUST be done, and what could wait until the next day. 
 
 #### Know Before You Go
-A developer should never be caught by surprise by the expectations of the workplace they’ve chosen. Have the foresight to ask those questions during the interview phase and make sure that expectations match up to the work-life balance you want to have. 
+A developer should never be caught by surprise by the expectations of the workplace they’ve chosen. Have the foresight to ask those questions during the interview phase and make sure that expectations match up to the work-life balance you want to have. Don't just ask about a "typical day" either. Specifically ask how often crunch times happen and whether there is an on-call rotation.
+
+If you're already at a job and struggling with spending too much time at work and not enough time living the rest of your life, talk to your manager! You might be surprised to discover that your boss doesn't want you burning out either.
 
 ### Feeling Stagnant/Bored
 There will be times in your career when you won't always get to work on what you enjoy most. That's the job part of it. These tips will help you power through those phases: 
