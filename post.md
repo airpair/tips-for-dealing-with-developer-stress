@@ -91,4 +91,4 @@ Look at this problem from a career perspective: we chose software development be
 ## Going Forward
 Regardless of what the problem is, you are not the first person to have it. Do your due diligence and try to figure it out, but don't bang your head on the keyboard all day. Talk to another developer or your manager to get help! No one likes a workplace martyr (“look how hard I’m trying to find a solution on my own!”) – do your best to find a solution, but call in for help when too much time is passing.
 
-Now that we've covered some common developers challenges, remember to step back and try to tackle the cause of a problem.  We convered some tips that have worked for us, but if you have a tip that helps you manage stress and focus on producitivity, be sure to let us know in the comments!
+Now that we've covered some common developers challenges, remember to step back and try to tackle the cause of a problem.  We covered some tips that have worked for us, but if you have a tip that helps you manage stress and focus on producitivity, be sure to let us know in the comments!
