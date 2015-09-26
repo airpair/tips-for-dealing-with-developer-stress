@@ -91,13 +91,15 @@ A developer should never be caught by surprise by the expectations of the workpl
 
 If you're already at a job and struggling with spending too much time at work and not enough time living the rest of your life, talk to your manager! You might be surprised to discover that your boss doesn't want you burning out either.
 
-### Feeling Stagnant/Bored
-There will be times in your career when you won't always get to work on what you enjoy most. That's the job part of it. These tips will help you power through those phases: 
+### Feeling Stagnant or Bored
+There will be times in your career when you won't always get to work on what you enjoy most. That's the job part of it. These tips will help you power through those phases. 
 
 #### Get Involved
-Look at this problem from a career perspective: we chose software development because we love it right? Often enough, the most enjoyable aspect of my career is something I'm doing for fun, not money. Writing a tech blog, attending/presenting at a meetup, or coding a fun side project is a great way to get involved with something new. Mixing fun extracurricular items in with the dull makes those dull tasks more tolerable.  You might even get the opportunity to incorporate something new in at work.
+Look at this problem from a career perspective: we chose software development because we love it right? Often enough, the most enjoyable aspect of my career is something I'm doing for fun, not money. Writing a tech blog, attending/presenting at a meetup, or coding a fun side project is a great way to get involved with something new. Mixing fun extracurricular items in with the dull makes those dull tasks more tolerable.
+
+You might even get the opportunity to incorporate something new in at work. Trying new things  outside of your day job is a great source of creativity and inspiration. Bringing that to work is a good way to get noticed and start working on newer or more rewarding projects.
 
 ## Going Forward
-Regardless of what the problem is, you are not the first person to have it. Do your due diligence and try to figure it out, but don't bang your head on the keyboard all day. Talk to another developer or your manager to get help! No one likes a workplace martyr (“look how hard I’m trying to find a solution on my own!”) – do your best to find a solution, but call in for help when too much time is passing.
+Regardless of what the problem is, you are not the first person to have it. Do your due diligence and try to figure it out, but don't bang your head on the keyboard all day. Talk to another developer or your manager to get help! No one likes a workplace martyr (“look how hard I’m trying to find a solution on my own!”) – do your best to find a solution, but call for help when too much time is passing.
 
 Now that we've covered some common developers challenges, remember to step back and try to tackle the cause of a problem.  We covered some tips that have worked for us, but if you have a tip that helps you manage stress and focus on producitivity, be sure to let us know in the comments!
