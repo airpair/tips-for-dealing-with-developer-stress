@@ -70,7 +70,7 @@ A second major source of stress is disagreement. Most developers don’t work al
 #### Pick Your Battles
 It's easy to find yourself arguing semantics.  Does it really matter if the function is called 'getUserId' or 'getUserID'? Probably not. But too often, people become wrapped up in these tiny details (there's a term for this too: bikeshedding<sup>https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality</sup>!).  The discussion becomes counter-productive and time gets more wasted than college kids on St. Patrick’s Day. Even if your idea or choice is more correct, it won't always win. Make peace with it. Sometimes you have to cut your losses in order to keep going.
 
-#### Put it to a Vote
+#### Put It to a Vote
 Seriously, show some love for democracy. We've all been in meetings that go in circles while we search for the optimal solution.  Set a time limit and once you've hit it, put the solutions to vote, majority rules. Have a tie? See the next tip.
 
 #### Get a Mediator
@@ -102,4 +102,4 @@ You might even get the opportunity to incorporate something new in at work. Tryi
 ## Going Forward
 Regardless of what the problem is, you are not the first person to have it. Do your due diligence and try to figure it out, but don't bang your head on the keyboard all day. Talk to another developer or your manager to get help! No one likes a workplace martyr (“look how hard I’m trying to find a solution on my own!”) – do your best to find a solution, but call for help when too much time is passing.
 
-Now that we've covered some common developers challenges, remember to step back and try to tackle the cause of a problem.  We covered some tips that have worked for us, but if you have a tip that helps you manage stress and focus on producitivity, be sure to let us know in the comments!
+Now that we've covered some common developers challenges, remember to step back and try to tackle the cause of a problem.  We covered some tips that have worked for us, but if you have a tip that helps you manage stress and focus on productivity, be sure to let us know in the comments!
