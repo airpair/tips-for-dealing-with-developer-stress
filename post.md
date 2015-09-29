@@ -1,8 +1,8 @@
 Synopsis
-> This article identifies several types of stress facing developers daily and explains how they may impact effectiveness. We’ll cover tips for identifying the root cause of the stress and offer suggestions on how to manage them.
+> This article identifies several types of stress that developers face on a daily basis and explains how they may impact effectiveness. We’ll cover tips for identifying the root cause of the stress and offer suggestions on how to manage them.
 
 ## Background
-I'm co-authoring this article with Erik Gillespie.<sup>http://technicalrex.com/</sup><sup>https://www.airpair.com/stackoverflow/posts/30-days-of-answers-on-stack-overflow</sup> We have worked on many projects together including fun side projects, business idea pitches, and epic enterprise apps. We've encountered a lot of stressful scenarios, ranging from enterprise architectural decisions to where to get lunch (while the latter is mostly intended as a joke, there is a thing called “decision fatigue” that contributes to not being able to choose something as routine as lunch – stay tuned to learn more!). We've tried a lot of techniques and selected a handful we feel to be most helpful.
+I'm co-authoring this article with Erik Gillespie.<sup>http://technicalrex.com/</sup><sup>https://www.airpair.com/stackoverflow/posts/30-days-of-answers-on-stack-overflow</sup> We have worked on many projects together including fun side projects, business idea pitches, and epic enterprise apps. We've encountered a lot of stressful scenarios ranging from enterprise architectural decisions to where to get lunch (while the latter is mostly intended as a joke, there is a type of stress called “decision fatigue” that contributes to not being able to choose something as routine as lunch – stay tuned to learn more!). We've tried a lot of techniques to overcome these daily stresses and have selected a handful we feel have been most helpful.
 
 As software engineers, our jobs tend to be very stressful.  At its core, our job is to build - and build quickly. But how do you continue to build quickly when stress is getting you down?
 
@@ -59,36 +59,47 @@ Consequently, our first tip is to reduce the number of options or variables you 
 
 For example, perhaps you want to introduce a JavaScript Templating framework into your application. A quick search might show that there four major contenders. If you can quickly rule out even one of them (perhaps the one option no one on your team has even heard of), then you will save yourself the time and brainpower of comparing it to three other libraries.
 
-Additionally, making prototypes can be a great tool to reduce the number of available options. It's very easy for an implementation debate to go off on a tangent for hours.  Get to a solution faster by making a simple prototype or demo to actually try something instead of basing decisions on hypotheticals.  You can read all the documentation and blog posts out there, but sometimes simply spending 30 minutes on a building a demo is enough to qualify something as either good or bad.  When working on the prototype, don’t worry about code quality; set a time limit and see how much you can get done. Once you've hit the end of the time limit, do a “gut check”. Were you able to gauge if the idea is going to work, or did you uncover things that would render it inefficient/impractical? If you did open a can of worms, use those results to determine what needs to be improved and pivot to your next option.
+#### Decide By Doing
+Additionally, making prototypes can be a great tool to reduce the number of available options. It's very easy for an implementation debate to go off on a tangent for hours.  Get to a solution faster by making a simple prototype or demo to actually try something instead of basing decisions on hypotheticals.
+
+You can read all the documentation and blog posts out there, but sometimes simply spending 30 minutes on a building a demo is enough to qualify something as either good or bad.  When working on the prototype, don’t worry about code quality; set a time limit and see how much you can get done. Once you've hit the end of the time limit, do a “gut check”. Were you able to gauge if the idea is going to work, or did you uncover things that would render it inefficient or impractical? If you did open a can of worms, use those results to determine what needs to be improved and pivot to your next option.
 
 ### Disagreements
 A second major source of stress is disagreement. Most developers don’t work alone.  There are weeks where we spend more time with our coworkers than with our families.  This constant interaction may result (intentionally or not) in reduced professionalism. This and other factors result in disagreements. Some tips for overcoming this stress include:
 
 #### Pick Your Battles
-It's easy to find yourself arguing semantics.  Does it really matter if the function is called 'getUserId' or 'getUserID'? Probably not. But too often, people become wrapped up in these tiny details.  The discussion becomes counter-productive and time gets more wasted than college kids on St. Patrick’s Day. Even if your idea or choice is more correct, it won't always win. Make peace with it. Sometimes you have to cut your loses in order to keep going.
+It's easy to find yourself arguing semantics.  Does it really matter if the function is called 'getUserId' or 'getUserID'? Probably not. But too often, people become wrapped up in these tiny details (there's a term for this too: bikeshedding<sup>https://en.wikipedia.org/wiki/Parkinson%27s_law_of_triviality</sup>!).  The discussion becomes counter-productive and time gets more wasted than college kids on St. Patrick’s Day. Even if your idea or choice is more correct, it won't always win. Make peace with it. Sometimes you have to cut your losses in order to keep going.
 
-#### Put it to a Vote
+#### Put It to a Vote
 Seriously, show some love for democracy. We've all been in meetings that go in circles while we search for the optimal solution.  Set a time limit and once you've hit it, put the solutions to vote, majority rules. Have a tie? See the next tip.
 
 #### Get a Mediator
-Find a neutral party.  It doesn't necessarily have to be an expert or even a developer.  Find someone you can explain the options to in five meetings and get their feedback.  Their new perspective might even make the solution obvious.
+Find a neutral party.  It doesn't necessarily have to be an expert or even a developer.  Find someone you can explain the options to in five minutes and get their feedback.  Their new perspective might even make the solution obvious. Sometimes simply stating the problem out loud is enough to help you come to a decision or solution.
 
 ### Overloaded
 Working nights and weekends? This third stress is a bummer. Check out these savvy solutions to save your personal life from the black hole of time that work can sometimes be.
 
 #### Prioritize
-You likely have to deal with two sets of priorities: customer-level priorities (given to you by business side co-workers) and work that you can actually prioritize. If you feel you’re spending too much time on features that don't deliver enough value to warrant the effort, talk to your project or development manager. Invited to constant meetings? Assess meeting attendees carefully: could someone on your team with your expertise go to the meeting and report back? Minimize context switching: try and wrap up a task before jumping to others. This will help you knock tasks off your list and off your brain so you can focus on the next project. Keep a tight eye on timelines: if you’re working extra hours for many consecutive days, you risk burnout, which results in inferior work. Be sure to take time to rest and regenerate; knowing deadlines can help you decide what MUST be done, and what could wait until the next day. 
+You likely have to deal with two sets of priorities: customer-level priorities (given to you by business-side coworkers) and work that you can actually prioritize. If you feel you’re spending too much time on features that don't deliver enough value to warrant the effort, talk to your project or development manager. Invited to constant meetings? Assess meeting attendees carefully: could someone on your team with your expertise go to the meeting and report back?
+
+Minimize context switching: try and wrap up a task before jumping to others. This will help you knock tasks off your list and off your brain so you can focus on the next project. Get creative about it too: consider compressing all of your meetings to a single day each week, encouraging "No Meeting Mondays," or rescheduling your daily meetings so that they are back-to-back. 
+
+Keep a tight eye on your week: if you’re working extra hours for many consecutive days, you risk burnout, which results in inferior work. Be sure to take time to rest and regenerate; knowing deadlines can help you decide what MUST be done, and what could wait until the next day. 
 
 #### Know Before You Go
-A developer should never be caught by surprise by the expectations of the workplace they’ve chosen. Have the foresight to ask those questions during the interview phase and make sure that expectations match up to the work-life balance you want to have. 
+A developer should never be caught by surprise by the expectations of the workplace they’ve chosen. Have the foresight to ask those questions during the interview phase and make sure that expectations match up to the work-life balance you want to have. Don't just ask about a "typical day" either. Specifically ask how often crunch times happen and whether there is an on-call rotation.
 
-### Feeling Stagnant/Bored
-There will be times in your career when you won't always get to work on what you enjoy most. That's the job part of it. These tips will help you power through those phases: 
+If you're already at a job and struggling with spending too much time at work and not enough time living the rest of your life, talk to your manager! You might be surprised to discover that your boss doesn't want you burning out either.
+
+### Feeling Stagnant or Bored
+There will be times in your career when you won't always get to work on what you enjoy most. That's the job part of it. These tips will help you power through those phases. 
 
 #### Get Involved
-Look at this problem from a career perspective: we chose software development because we love it right? Often enough, the most enjoyable aspect of my career is something I'm doing for fun, not money. Writing a tech blog, attending/presenting at a meetup, or coding a fun side project is a great way to get involved with something new. Mixing fun extracurricular items in with the dull makes those dull tasks more tolerable.  You might even get the opportunity to incorporate something new in at work.
+Look at this problem from a career perspective: we chose software development because we love it right? Often enough, the most enjoyable aspect of my career is something I'm doing for fun, not money. Writing a tech blog, attending/presenting at a meetup, or coding a fun side project is a great way to get involved with something new. Mixing fun extracurricular items in with the dull makes those dull tasks more tolerable.
+
+You might even get the opportunity to incorporate something new in at work. Trying new things  outside of your day job is a great source of creativity and inspiration. Bringing that to work is a good way to get noticed and start working on newer or more rewarding projects.
 
 ## Going Forward
-Regardless of what the problem is, you are not the first person to have it. Do your due diligence and try to figure it out, but don't bang your head on the keyboard all day. Talk to another developer or your manager to get help! No one likes a workplace martyr (“look how hard I’m trying to find a solution on my own!”) – do your best to find a solution, but call in for help when too much time is passing.
+Regardless of what the problem is, you are not the first person to have it. Do your due diligence and try to figure it out, but don't bang your head on the keyboard all day. Talk to another developer or your manager to get help! No one likes a workplace martyr (“look how hard I’m trying to find a solution on my own!”) – do your best to find a solution, but call for help when too much time is passing.
 
-Now that we've covered some common developers challenges, remember to step back and try to tackle the cause of a problem.  We covered some tips that have worked for us, but if you have a tip that helps you manage stress and focus on producitivity, be sure to let us know in the comments!
+Now that we've covered some common developers challenges, remember to step back and try to tackle the cause of a problem.  We covered some tips that have worked for us, but if you have a tip that helps you manage stress and focus on productivity, be sure to let us know in the comments!
